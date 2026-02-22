@@ -13,5 +13,5 @@ f = a/b
 # print the result
 print('Addition:' , c)
 print('Subtraction:' , d)
-print('Multiplication:' , e)
+
 
